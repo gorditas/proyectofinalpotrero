@@ -1,0 +1,26 @@
+
+
+/* Index Header */
+.cabezal{background-color: darkolivegreen;border: dashed;}
+ h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 50px;font-weight: bold;text-align: center; color: rgb(255, 255, 255);}
+ h2{text-align: center;color: aliceblue;font-size: 100%;font-family: Georgia, 'Times New Roman', Times, serif;}
+ 
+ .perro1{border:double;}
+ .perro2{border: double;}
+ .perro3{border: double;}
+ .p1{font-family: 'Courier New', Courier, monospace;text-align: center;}
+ 
+ /* Contactos E inicio Deco */
+#Fondoinicio{background-image: url(../imagenes/fondo\ web.jpg);background-position: center;}
+#Fondocontactos{background-image: url(https://www.purina.com.ar/sites/default/files/styles/webp/public/2023-06/qu%C3%A9-frutas-pueden-comer-los-perros-2.jpg.webp?itok=cb8tIE43);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
+div{background-color: rgba(255, 255, 255, 0.651);color: aliceblue;background-size: 10%;}
+.final{text-align:center;}
+.whatsapp{text-align:right;color: aliceblue;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.pepe2{font-family: Arial, Helvetica, sans-serif;color: brown;}
+
+
+/* Perritos deco */
+.parte1{background-color:slategray;background-repeat: repeat;border: double;color: rgba(95, 158, 160, 0.212);}
+.perrito2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 50px;font-weight: bold;text-align: center; color: rgb(240, 248, 255);background-color: slategray;background-repeat: repeat;}
+.sugerencia{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 20px;font-weight: bold;text-align: left;background-color: slategray;color: linen;}
+.pepe, div{border: double; size: 10%;align-items: center;}
